@@ -73,7 +73,6 @@ Internship/
 - Convert PDF files to text
 - Encode text using BERT embeddings
 - Search functionality via Flask API
-- Simple HTML frontend for search interaction
 
 ## Future Improvements
 - Advanced search features (filtering, sorting)
